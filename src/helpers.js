@@ -1,5 +1,6 @@
 
-const FORBIDDEN_NODES = ['INPUT', 'TEXTAREA', 'SELECT']
+//const FORBIDDEN_NODES = ['INPUT', 'TEXTAREA', 'SELECT']
+const FORBIDDEN_NODES = []
 
 /**
  *
